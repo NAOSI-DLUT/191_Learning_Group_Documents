@@ -1,6 +1,6 @@
 # 191 级队学习群文件整理
 
-这一部分资料由**姜沛峰**大佬书写和整理，由 [@Augists](https://github.com/Augists) 归档并上传到仓库
+这一部分资料由**姜沛峰**大佬书写和整理，由 [@Augists](https://github.com/Augists) 归档并上传到仓库，由 [@Momo](https://github.com/MoMo569377793) 拆分为隔离仓库
 
 > 已获得 jpf 授权，允许整理上传到仓库供学弟学妹学习和使用
 
